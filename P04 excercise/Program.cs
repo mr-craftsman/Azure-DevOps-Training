@@ -22,6 +22,19 @@ namespace P04_excercise
             string report2 = string.Format("The {0} total number has {1} characters", sumNumber, sumNumber);
             Console.WriteLine(report2);
 
+
+            //part 2
+            Console.WriteLine("Please provide 2 numbers separated by a spece");
+            string twoNumbers = Console.ReadLine();
+
+            int positionsNumbers = twoNumbers.IndexOf(" ");
+            int numberOne = Convert.ToInt32((twoNumbers.Substring(0, positionsNumbers)));
+            int intnumberTwo = Convert.ToInt32((twoNumbers.Substring(positionsNumbers + 1));
+            // add sum of new numbers
+
+
+
+
             Console.ReadKey();
 
         }
