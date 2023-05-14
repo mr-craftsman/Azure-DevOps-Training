@@ -49,18 +49,7 @@ namespace B02_finding_city
                 
             }
 
-           
-            
-
-
             // while substring, index of if
-            
-
-
-
-
-
-            Console.WriteLine();
             Console.ReadKey();
         }
     }

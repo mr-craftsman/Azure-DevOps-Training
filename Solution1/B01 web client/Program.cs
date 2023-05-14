@@ -17,7 +17,8 @@ namespace B01WebClient
             string weatherUrl = "https://www.google.com/search?q=weather+zakopane";
             string weatherData = weatherWebClient.DownloadString(weatherUrl);
 
-            string resultPath = @"E:\weatherData\weatherData.html";
+            // your proper folder path down here
+            string resultPath = @"C:\Users\Radek\Projects\AzureTraining\Solution1\weatherData.html";
             File.WriteAllText(resultPath, weatherData);
             
 

@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Create a program that asks the user for two integers and uses a conditional statement to display 
+//the greater number.
+
 namespace H02_homework_2
 {
     internal class Program
