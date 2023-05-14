@@ -1,0 +1,30 @@
+// just in Net Core Framework technology
+// in windows cdm write a 
+dotnet new solution
+// to create a clean console app
+// make an app
+dotnet build
+// to buila an app
+// go into bin/Debug/net7.0
+net7.0>Program.exe
+
+// for creating new solution
+dotnet new sln -n testingConsoleSolution
+
+//add a new project 
+mkdir testingProject
+cd testingProject
+dotnet new console -n testingProject
+
+// adding a reference
+// out of root directory (here \AzureTraining\Day4testing>)
+dotnet sln add testingProject\testingProject\testingProject.csproj
+
+//make batch files to automate such processes
+
+// IN POWERSHELL in VS:
+// create
+dotnet new console -n D02ParalellProcessing
+// create solution (which should be first
+//add reference to a project to a solution
+dotnet sln add .D02ParalellProcessing\D02ParalellProcessing.scproj

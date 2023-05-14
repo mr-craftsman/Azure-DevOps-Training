@@ -1,0 +1,15 @@
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\bin\Debug\net7.0\SQL04codeFirst.exe
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\bin\Debug\net7.0\SQL04codeFirst.deps.json
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\bin\Debug\net7.0\SQL04codeFirst.runtimeconfig.json
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\bin\Debug\net7.0\SQL04codeFirst.dll
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\bin\Debug\net7.0\SQL04codeFirst.pdb
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\obj\Debug\net7.0\SQL04codeFirst.csproj.AssemblyReference.cache
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\obj\Debug\net7.0\SQL04codeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\obj\Debug\net7.0\SQL04codeFirst.AssemblyInfoInputs.cache
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\obj\Debug\net7.0\SQL04codeFirst.AssemblyInfo.cs
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\obj\Debug\net7.0\SQL04codeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\obj\Debug\net7.0\SQL04codeFirst.dll
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\obj\Debug\net7.0\refint\SQL04codeFirst.dll
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\obj\Debug\net7.0\SQL04codeFirst.pdb
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\obj\Debug\net7.0\SQL04codeFirst.genruntimeconfig.cache
+C:\Users\Radek\Projects\AzureTraining\Solution5\Solution5\SQL04codeFirst\obj\Debug\net7.0\ref\SQL04codeFirst.dll

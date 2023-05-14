@@ -1,0 +1,15 @@
+C:\Users\Radek\Projects\AzureTraining\Day4testing\bin\Debug\net7.0\Day4testing.exe
+C:\Users\Radek\Projects\AzureTraining\Day4testing\bin\Debug\net7.0\Day4testing.deps.json
+C:\Users\Radek\Projects\AzureTraining\Day4testing\bin\Debug\net7.0\Day4testing.runtimeconfig.json
+C:\Users\Radek\Projects\AzureTraining\Day4testing\bin\Debug\net7.0\Day4testing.dll
+C:\Users\Radek\Projects\AzureTraining\Day4testing\bin\Debug\net7.0\Day4testing.pdb
+C:\Users\Radek\Projects\AzureTraining\Day4testing\obj\Debug\net7.0\Day4testing.csproj.AssemblyReference.cache
+C:\Users\Radek\Projects\AzureTraining\Day4testing\obj\Debug\net7.0\Day4testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radek\Projects\AzureTraining\Day4testing\obj\Debug\net7.0\Day4testing.AssemblyInfoInputs.cache
+C:\Users\Radek\Projects\AzureTraining\Day4testing\obj\Debug\net7.0\Day4testing.AssemblyInfo.cs
+C:\Users\Radek\Projects\AzureTraining\Day4testing\obj\Debug\net7.0\Day4testing.csproj.CoreCompileInputs.cache
+C:\Users\Radek\Projects\AzureTraining\Day4testing\obj\Debug\net7.0\Day4testing.dll
+C:\Users\Radek\Projects\AzureTraining\Day4testing\obj\Debug\net7.0\refint\Day4testing.dll
+C:\Users\Radek\Projects\AzureTraining\Day4testing\obj\Debug\net7.0\Day4testing.pdb
+C:\Users\Radek\Projects\AzureTraining\Day4testing\obj\Debug\net7.0\Day4testing.genruntimeconfig.cache
+C:\Users\Radek\Projects\AzureTraining\Day4testing\obj\Debug\net7.0\ref\Day4testing.dll

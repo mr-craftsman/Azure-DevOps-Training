@@ -1,0 +1,15 @@
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\bin\Debug\net7.0\D02ParalellProcessing.exe
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\bin\Debug\net7.0\D02ParalellProcessing.deps.json
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\bin\Debug\net7.0\D02ParalellProcessing.runtimeconfig.json
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\bin\Debug\net7.0\D02ParalellProcessing.dll
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\bin\Debug\net7.0\D02ParalellProcessing.pdb
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\obj\Debug\net7.0\D02ParalellProcessing.csproj.AssemblyReference.cache
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\obj\Debug\net7.0\D02ParalellProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\obj\Debug\net7.0\D02ParalellProcessing.AssemblyInfoInputs.cache
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\obj\Debug\net7.0\D02ParalellProcessing.AssemblyInfo.cs
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\obj\Debug\net7.0\D02ParalellProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\obj\Debug\net7.0\D02ParalellProcessing.dll
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\obj\Debug\net7.0\refint\D02ParalellProcessing.dll
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\obj\Debug\net7.0\D02ParalellProcessing.pdb
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\obj\Debug\net7.0\D02ParalellProcessing.genruntimeconfig.cache
+C:\Users\Radek\Projects\AzureTraining\Solution4\Solution4\D02ParalellProcessing\obj\Debug\net7.0\ref\D02ParalellProcessing.dll
