@@ -12,3 +12,7 @@ homework Persons repository class based on data context CRUD
 // try adding a new database to migration
 
 // homework apps library(w first approach) and a second (w entity framework) - inventory mangement system for a store, user interface, add deltete sql, all
+
+
+visual studio shift+F2 new class file
+Windows Key + Alt + R
