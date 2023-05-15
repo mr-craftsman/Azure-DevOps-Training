@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL02Repos\\SQL02Repos.csproj": {}
+    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL02Repos\\SQL02Repos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL02Repos\\SQL02Repos.csproj": {
+    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL02Repos\\SQL02Repos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL02Repos\\SQL02Repos.csproj",
+        "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL02Repos\\SQL02Repos.csproj",
         "projectName": "SQL02Repos",
-        "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL02Repos\\SQL02Repos.csproj",
+        "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL02Repos\\SQL02Repos.csproj",
         "packagesPath": "C:\\Users\\a-gwi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL02Repos\\obj\\",
+        "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL02Repos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

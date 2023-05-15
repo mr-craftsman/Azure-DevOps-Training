@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YJAwr+4lFdEHab3rZlbHvaC8shEPxx2Vz6WjavkFWSR8j2icZbrFC6uVYb2nWUOlhZrwu94sbQWM6CZcYcDA9A==",
+  "dgSpecHash": "r/8MRLtZhIluZ46RbY3yPbk8UEBvTHMd63rrzfAZpFzv+9BgWHSE3L6OmyPIISPm2QXNIhEx+iq/NH2DyYAhBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL01Commands\\SQL01Commands.csproj",
+  "projectFilePath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL01Commands\\SQL01Commands.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a-gwi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\a-gwi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -3185,11 +3185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL01Commands\\SQL01Commands.csproj",
+      "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL01Commands\\SQL01Commands.csproj",
       "projectName": "SQL01Commands",
-      "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL01Commands\\SQL01Commands.csproj",
+      "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL01Commands\\SQL01Commands.csproj",
       "packagesPath": "C:\\Users\\a-gwi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL01Commands\\obj\\",
+      "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL01Commands\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
