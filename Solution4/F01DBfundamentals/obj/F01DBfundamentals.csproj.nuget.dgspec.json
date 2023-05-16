@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F01DBfundamentals\\F01DBfundamentals.csproj": {}
+    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F01DBfundamentals\\F01DBfundamentals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F01DBfundamentals\\F01DBfundamentals.csproj": {
+    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F01DBfundamentals\\F01DBfundamentals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F01DBfundamentals\\F01DBfundamentals.csproj",
+        "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F01DBfundamentals\\F01DBfundamentals.csproj",
         "projectName": "F01DBfundamentals",
-        "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F01DBfundamentals\\F01DBfundamentals.csproj",
+        "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F01DBfundamentals\\F01DBfundamentals.csproj",
         "packagesPath": "C:\\Users\\a-gwi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F01DBfundamentals\\obj\\",
+        "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F01DBfundamentals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

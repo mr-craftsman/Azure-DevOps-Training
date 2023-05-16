@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lwHq7j4ugyDVVrALpIibi736GrQfdxpVu/c9mhT8VX+dZVFNP+EI2MQxbPkfTycNCrKlVOGkO9dCy/AR21v5SA==",
+  "dgSpecHash": "oSsPgt0G5GVWISST8biNnAoZP73yUNr6P1OoqMcGy43Bsf++X85Yu2Ue5DUsDASjFSbQiN+fX7ZpyKDzZs/TXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F02ConnectingToDB\\F02ConnectingToDB.csproj",
+  "projectFilePath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F02ConnectingToDB\\F02ConnectingToDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a-gwi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\a-gwi\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
