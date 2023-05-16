@@ -6,6 +6,15 @@ PersonsRepo personsRepository = new PersonsRepo();
 Person[] people = personsRepository.GetPersons();
 
 
+Person newPerson = new Person()
+{
+    FirstName = "John",
+    LastName = "Kowalsky"
+};
+personsRepository.CreatePersons(newPerson);
+
+personsRepository.DeletePersons(8);
+
 
 foreach (var p in people)
 {
