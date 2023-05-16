@@ -1,0 +1,8 @@
+C:\Users\Radek\Projects\AzureTraining\Solution3\C05EXtextManager\bin\Debug\C05EXtextManager.exe.config
+C:\Users\Radek\Projects\AzureTraining\Solution3\C05EXtextManager\bin\Debug\C05EXtextManager.exe
+C:\Users\Radek\Projects\AzureTraining\Solution3\C05EXtextManager\bin\Debug\C05EXtextManager.pdb
+C:\Users\Radek\Projects\AzureTraining\Solution3\C05EXtextManager\obj\Debug\C05EXtextManager.csproj.AssemblyReference.cache
+C:\Users\Radek\Projects\AzureTraining\Solution3\C05EXtextManager\obj\Debug\C05EXtextManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Radek\Projects\AzureTraining\Solution3\C05EXtextManager\obj\Debug\C05EXtextManager.csproj.CoreCompileInputs.cache
+C:\Users\Radek\Projects\AzureTraining\Solution3\C05EXtextManager\obj\Debug\C05EXtextManager.exe
+C:\Users\Radek\Projects\AzureTraining\Solution3\C05EXtextManager\obj\Debug\C05EXtextManager.pdb

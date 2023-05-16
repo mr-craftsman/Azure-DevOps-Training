@@ -1,0 +1,8 @@
+C:\Users\Radek\Projects\AzureTraining\Solution3\C07enumerators\bin\Debug\C07enumerators.exe.config
+C:\Users\Radek\Projects\AzureTraining\Solution3\C07enumerators\bin\Debug\C07enumerators.exe
+C:\Users\Radek\Projects\AzureTraining\Solution3\C07enumerators\bin\Debug\C07enumerators.pdb
+C:\Users\Radek\Projects\AzureTraining\Solution3\C07enumerators\obj\Debug\C07enumerators.csproj.AssemblyReference.cache
+C:\Users\Radek\Projects\AzureTraining\Solution3\C07enumerators\obj\Debug\C07enumerators.csproj.SuggestedBindingRedirects.cache
+C:\Users\Radek\Projects\AzureTraining\Solution3\C07enumerators\obj\Debug\C07enumerators.csproj.CoreCompileInputs.cache
+C:\Users\Radek\Projects\AzureTraining\Solution3\C07enumerators\obj\Debug\C07enumerators.exe
+C:\Users\Radek\Projects\AzureTraining\Solution3\C07enumerators\obj\Debug\C07enumerators.pdb
