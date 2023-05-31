@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xecApTolvFMqzjy1chPVimU/TvLF3KDTZ3ehjzNnBQT7IVfdKCUlF1kDmN1/hGIkwd+C5I26Q0rKx7j5UNVWXg==",
+  "dgSpecHash": "/00ZHiyfI1pvOv0VDWziPAOuGdljHFt2xR2tBvrJBmevSucAZU7HxXKnscAN0HTvJt6dt4G4T+HYYrGtgSdevQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F01DBfundamentals\\F01DBfundamentals.csproj",
+  "projectFilePath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F01DBfundamentals\\F01DBfundamentals.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a-gwi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\a-gwi\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

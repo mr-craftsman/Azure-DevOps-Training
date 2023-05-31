@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F02ConnectingToDB\\F02ConnectingToDB.csproj": {}
+    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F02ConnectingToDB\\F02ConnectingToDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F02ConnectingToDB\\F02ConnectingToDB.csproj": {
+    "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F02ConnectingToDB\\F02ConnectingToDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F02ConnectingToDB\\F02ConnectingToDB.csproj",
+        "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F02ConnectingToDB\\F02ConnectingToDB.csproj",
         "projectName": "F02ConnectingToDB",
-        "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F02ConnectingToDB\\F02ConnectingToDB.csproj",
+        "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F02ConnectingToDB\\F02ConnectingToDB.csproj",
         "packagesPath": "C:\\Users\\a-gwi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F02ConnectingToDB\\obj\\",
+        "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F02ConnectingToDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

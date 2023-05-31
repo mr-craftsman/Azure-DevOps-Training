@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\D03weatherAppUI\\D03weatherAppUI.csproj",
+      "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\D03weatherAppUI\\D03weatherAppUI.csproj",
       "projectName": "D03weatherAppUI",
-      "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\D03weatherAppUI\\D03weatherAppUI.csproj",
+      "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\D03weatherAppUI\\D03weatherAppUI.csproj",
       "packagesPath": "C:\\Users\\a-gwi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\D03weatherAppUI\\obj\\",
+      "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\D03weatherAppUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

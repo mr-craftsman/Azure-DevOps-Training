@@ -1,0 +1,8 @@
+C:\Users\Radek\Projects\AzureTraining\Solution3\C06weatherManager\bin\Debug\C06weatherManager.exe.config
+C:\Users\Radek\Projects\AzureTraining\Solution3\C06weatherManager\bin\Debug\C06weatherManager.exe
+C:\Users\Radek\Projects\AzureTraining\Solution3\C06weatherManager\bin\Debug\C06weatherManager.pdb
+C:\Users\Radek\Projects\AzureTraining\Solution3\C06weatherManager\obj\Debug\C06weatherManager.csproj.AssemblyReference.cache
+C:\Users\Radek\Projects\AzureTraining\Solution3\C06weatherManager\obj\Debug\C06weatherManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Radek\Projects\AzureTraining\Solution3\C06weatherManager\obj\Debug\C06weatherManager.csproj.CoreCompileInputs.cache
+C:\Users\Radek\Projects\AzureTraining\Solution3\C06weatherManager\obj\Debug\C06weatherManager.exe
+C:\Users\Radek\Projects\AzureTraining\Solution3\C06weatherManager\obj\Debug\C06weatherManager.pdb

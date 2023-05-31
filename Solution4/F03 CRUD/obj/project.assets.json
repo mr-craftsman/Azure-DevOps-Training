@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F03 CRUD\\F03 CRUD.csproj",
+      "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F03 CRUD\\F03 CRUD.csproj",
       "projectName": "F03 CRUD",
-      "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F03 CRUD\\F03 CRUD.csproj",
+      "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F03 CRUD\\F03 CRUD.csproj",
       "packagesPath": "C:\\Users\\a-gwi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\Solution4\\F03 CRUD\\obj\\",
+      "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution4\\F03 CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
