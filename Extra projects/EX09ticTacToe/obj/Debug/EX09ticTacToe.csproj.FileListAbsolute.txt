@@ -1,0 +1,8 @@
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX09ticTacToe\bin\Debug\EX09ticTacToe.exe.config
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX09ticTacToe\bin\Debug\EX09ticTacToe.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX09ticTacToe\bin\Debug\EX09ticTacToe.pdb
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX09ticTacToe\obj\Debug\EX09ticTacToe.csproj.AssemblyReference.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX09ticTacToe\obj\Debug\EX09ticTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX09ticTacToe\obj\Debug\EX09ticTacToe.csproj.CoreCompileInputs.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX09ticTacToe\obj\Debug\EX09ticTacToe.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX09ticTacToe\obj\Debug\EX09ticTacToe.pdb

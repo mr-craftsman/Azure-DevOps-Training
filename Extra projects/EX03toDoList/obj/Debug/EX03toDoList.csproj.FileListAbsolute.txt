@@ -1,0 +1,8 @@
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX03toDoList\bin\Debug\EX03toDoList.exe.config
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX03toDoList\bin\Debug\EX03toDoList.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX03toDoList\bin\Debug\EX03toDoList.pdb
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX03toDoList\obj\Debug\EX03toDoList.csproj.AssemblyReference.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX03toDoList\obj\Debug\EX03toDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX03toDoList\obj\Debug\EX03toDoList.csproj.CoreCompileInputs.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX03toDoList\obj\Debug\EX03toDoList.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX03toDoList\obj\Debug\EX03toDoList.pdb

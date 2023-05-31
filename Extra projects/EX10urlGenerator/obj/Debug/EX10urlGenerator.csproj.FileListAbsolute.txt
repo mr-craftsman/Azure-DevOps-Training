@@ -1,0 +1,8 @@
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX10urlGenerator\bin\Debug\EX10urlGenerator.exe.config
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX10urlGenerator\bin\Debug\EX10urlGenerator.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX10urlGenerator\bin\Debug\EX10urlGenerator.pdb
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX10urlGenerator\obj\Debug\EX10urlGenerator.csproj.AssemblyReference.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX10urlGenerator\obj\Debug\EX10urlGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX10urlGenerator\obj\Debug\EX10urlGenerator.csproj.CoreCompileInputs.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX10urlGenerator\obj\Debug\EX10urlGenerator.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX10urlGenerator\obj\Debug\EX10urlGenerator.pdb

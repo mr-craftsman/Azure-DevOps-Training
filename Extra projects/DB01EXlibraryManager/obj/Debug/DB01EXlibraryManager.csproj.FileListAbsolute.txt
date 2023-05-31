@@ -1,0 +1,8 @@
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\DB01EXlibraryManager\bin\Debug\DB01EXlibraryManager.exe.config
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\DB01EXlibraryManager\bin\Debug\DB01EXlibraryManager.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\DB01EXlibraryManager\bin\Debug\DB01EXlibraryManager.pdb
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\DB01EXlibraryManager\obj\Debug\DB01EXlibraryManager.csproj.AssemblyReference.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\DB01EXlibraryManager\obj\Debug\DB01EXlibraryManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\DB01EXlibraryManager\obj\Debug\DB01EXlibraryManager.csproj.CoreCompileInputs.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\DB01EXlibraryManager\obj\Debug\DB01EXlibraryManager.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\DB01EXlibraryManager\obj\Debug\DB01EXlibraryManager.pdb

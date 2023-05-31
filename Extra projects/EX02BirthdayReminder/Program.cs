@@ -133,6 +133,8 @@ namespace EX02BirthdayReminder
                 Console.WriteLine("No friends found.");
             }
         }
+
+        // method to check for the upcoming b-day
         static void CheckUpcomingBirthdays()
         {
             Console.WriteLine("Provide number of days to check for birthdays:");
@@ -170,6 +172,7 @@ namespace EX02BirthdayReminder
 
                 string choice = Console.ReadLine();
 
+                // switch seems to be the best solution
                 switch (choice)
                 {
                     case "1":

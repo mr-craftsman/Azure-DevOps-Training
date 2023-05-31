@@ -1,0 +1,8 @@
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX07morseCode\bin\Debug\EX07morseCode.exe.config
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX07morseCode\bin\Debug\EX07morseCode.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX07morseCode\bin\Debug\EX07morseCode.pdb
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX07morseCode\obj\Debug\EX07morseCode.csproj.AssemblyReference.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX07morseCode\obj\Debug\EX07morseCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX07morseCode\obj\Debug\EX07morseCode.csproj.CoreCompileInputs.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX07morseCode\obj\Debug\EX07morseCode.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX07morseCode\obj\Debug\EX07morseCode.pdb

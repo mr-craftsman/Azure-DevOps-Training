@@ -1,0 +1,8 @@
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX08fileExplorer\bin\Debug\EX08fileExplorer.exe.config
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX08fileExplorer\bin\Debug\EX08fileExplorer.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX08fileExplorer\bin\Debug\EX08fileExplorer.pdb
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX08fileExplorer\obj\Debug\EX08fileExplorer.csproj.AssemblyReference.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX08fileExplorer\obj\Debug\EX08fileExplorer.csproj.SuggestedBindingRedirects.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX08fileExplorer\obj\Debug\EX08fileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX08fileExplorer\obj\Debug\EX08fileExplorer.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX08fileExplorer\obj\Debug\EX08fileExplorer.pdb

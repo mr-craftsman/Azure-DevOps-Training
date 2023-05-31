@@ -1,0 +1,8 @@
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX04palindromeChecker\bin\Debug\EX04palindromeChecker.exe.config
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX04palindromeChecker\bin\Debug\EX04palindromeChecker.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX04palindromeChecker\bin\Debug\EX04palindromeChecker.pdb
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX04palindromeChecker\obj\Debug\EX04palindromeChecker.csproj.AssemblyReference.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX04palindromeChecker\obj\Debug\EX04palindromeChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX04palindromeChecker\obj\Debug\EX04palindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX04palindromeChecker\obj\Debug\EX04palindromeChecker.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX04palindromeChecker\obj\Debug\EX04palindromeChecker.pdb

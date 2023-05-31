@@ -1,0 +1,8 @@
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX06hangmanGame\bin\Debug\EX06hangmanGame.exe.config
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX06hangmanGame\bin\Debug\EX06hangmanGame.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX06hangmanGame\bin\Debug\EX06hangmanGame.pdb
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX06hangmanGame\obj\Debug\EX06hangmanGame.csproj.AssemblyReference.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX06hangmanGame\obj\Debug\EX06hangmanGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX06hangmanGame\obj\Debug\EX06hangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX06hangmanGame\obj\Debug\EX06hangmanGame.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX06hangmanGame\obj\Debug\EX06hangmanGame.pdb
