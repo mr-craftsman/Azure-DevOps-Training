@@ -1,0 +1,21 @@
+﻿@page
+@model VolleyballWebApp.Pages.volleyballPlayerListModel
+@{
+}
+
+
+<p>Number of data : @Model.VolleyballPlayers.Count()</p>
+
+<table>
+
+    @foreach (var item in Model.VolleyballPlayers)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Position</td>
+            <td>@item.Number</td>
+            <td>@Html.DisplayFor(modelItem=>item.Number)</td>
+        </tr>
+    }
+
+</table>

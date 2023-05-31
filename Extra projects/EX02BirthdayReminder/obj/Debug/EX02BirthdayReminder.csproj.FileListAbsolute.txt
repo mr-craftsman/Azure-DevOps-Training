@@ -1,0 +1,8 @@
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX02BirthdayReminder\obj\Debug\EX02BirthdayReminder.csproj.AssemblyReference.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX02BirthdayReminder\obj\Debug\EX02BirthdayReminder.csproj.SuggestedBindingRedirects.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX02BirthdayReminder\obj\Debug\EX02BirthdayReminder.csproj.CoreCompileInputs.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX02BirthdayReminder\bin\Debug\EX02BirthdayReminder.exe.config
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX02BirthdayReminder\bin\Debug\EX02BirthdayReminder.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX02BirthdayReminder\bin\Debug\EX02BirthdayReminder.pdb
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX02BirthdayReminder\obj\Debug\EX02BirthdayReminder.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\EX02BirthdayReminder\obj\Debug\EX02BirthdayReminder.pdb

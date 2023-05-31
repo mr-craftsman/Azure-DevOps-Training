@@ -3468,11 +3468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL04codeFirst\\SQL04codeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL04codeFirst\\SQL04codeFirst.csproj",
       "projectName": "SQL04codeFirst",
-      "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL04codeFirst\\SQL04codeFirst.csproj",
+      "projectPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL04codeFirst\\SQL04codeFirst.csproj",
       "packagesPath": "C:\\Users\\a-gwi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\Solution5\\SQL04codeFirst\\obj\\",
+      "outputPath": "C:\\Users\\Radek\\Projects\\AzureTraining\\Solution5\\SQL04codeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

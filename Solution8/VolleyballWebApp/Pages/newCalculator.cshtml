@@ -1,0 +1,40 @@
+﻿@page
+@model VolleyballWebApp.Pages.newCalculatorModel
+@{
+}
+
+
+<p>This a calculator</p>
+<p>But with a binding approach</p>
+
+
+<form method="post" asp-page-handler="Add">
+
+<label for="Number1">Number1</label>
+<input id="Number1" name="Number1" value="@Model.Number1"/>
+    </br>
+<label for="Number2">Number2</label>
+<input id="Number2" name="Number2" value="@Model.Number2"/>
+    </br>
+
+<button type="submit"> Calculate</button>
+
+<p>Result: @Model.AddResult</p>
+
+</form>
+
+
+<form method="post" asp-page-handler="Substract">
+
+    <label for="Number1">Number1</label>
+    <input id="Number1" name="Number1" value="@Model.Number1" />
+    <br><br>
+    <label for="Number2">Number2</label>
+    <input id="Number2" name="Number2" value="@Model.Number2" />
+    <br><br>
+
+    <button type="submit"> Calculate</button>
+
+    <p>Result: @Model.SubstractResult</p>
+
+</form>

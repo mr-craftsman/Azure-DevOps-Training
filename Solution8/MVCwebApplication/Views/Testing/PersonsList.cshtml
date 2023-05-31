@@ -1,0 +1,21 @@
+﻿@model List<Person>
+
+
+
+<p>No. of persons</p>@Model.Count()
+
+<table>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+            <td>@Html.DisplayFor(modelItem=>item.Age)</td>
+
+
+            
+        </tr>
+    }
+
+</table>

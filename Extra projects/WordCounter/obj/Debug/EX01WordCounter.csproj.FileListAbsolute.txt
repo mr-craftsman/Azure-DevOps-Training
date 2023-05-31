@@ -1,0 +1,8 @@
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\WordCounter\obj\Debug\EX01WordCounter.csproj.AssemblyReference.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\WordCounter\obj\Debug\EX01WordCounter.csproj.SuggestedBindingRedirects.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\WordCounter\obj\Debug\EX01WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\radad\Desktop\Projects\AzureTraining\Extra projects\WordCounter\obj\Debug\WordCounter.pdb
